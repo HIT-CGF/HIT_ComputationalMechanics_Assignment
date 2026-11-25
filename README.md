@@ -1,0 +1,2 @@
+# HIT_ComputationalMechanics_Assignment
+哈工大计算力学课程大作业代码
